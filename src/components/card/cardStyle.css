@@ -1,0 +1,22 @@
+.cardSection {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  border: solid;
+  border-color: red;
+}
+
+.card-text {
+  padding: 2rem;
+}
+
+.card-title {
+  padding: 2rem;
+}
+
+.btn {
+  padding: 1rem;
+  margin-left: 2rem;
+}
